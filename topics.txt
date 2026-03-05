@@ -1,0 +1,10 @@
+Phase 2 용량 선정: 단일 용량 vs 다중 용량 디자인의 장단점과 HL192 최적 전략
+DaTscan을 primary endpoint로 사용할 때의 리스크, 규제 수용성, 대안 엔드포인트
+Early PD(disease modification) vs Late PD(LID) 적응증 우선순위 및 개발 전략
+HL192의 Nurr1 활성화 기전 대비 alpha-synuclein 항체(prasinezumab 등) 접근법의 차별점과 경쟁 포지셔닝
+전임상 독성 데이터에서 임상 안전성 예측: HL192의 therapeutic window 평가
+파킨슨병 disease modification 임상에서 enrichment strategy(유전자형, 바이오마커 기반 환자 선별)의 적용 가능성
+HL192의 BBB 투과도 및 CNS 약물 전달 전략이 임상 성공률에 미치는 영향
+Phase 2 임상 디자인: adaptive design vs fixed design, 중간분석 전략
+파킨슨병 치료제 시장에서 first-in-class Nurr1 activator의 라이선싱 가치와 파트너링 전략
+FDA Pre-IND meeting 전략: HL192의 핵심 논의 사항과 규제 리스크 관리
